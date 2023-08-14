@@ -13,7 +13,7 @@ In my postdoc, I studied actionable science in the context of climate modeling�
 
 My secondary interest is convergence research in climate science and geosciences more generally. I am particularly interested in the different dimensions of scientific convergence—specifically how to implement mechanisms and processes that can facilitate deep integration across traditionally disparate perspectives and research communities at institutions such as NCAR.
 
-### Education
+### Education:
 
 Indiana University at Bloomington—Bloomington, Indiana
 + Doctor of Philosophy in Philosophy, January 2021, Elisabeth A. Lloyd, PhD, “The Models are Alright:
@@ -28,7 +28,7 @@ Indiana University at Indianapolis—Indianapolis, Indiana
 Washington University in Saint Louis—Saint Louis, Missouri
 + Bachelor of Arts in Philosophy
 
-### Professional Experience
+### Professional Experience:
 
 + Advanced Study Program Postdoctoral Fellow—National Center for Atmospheric Research
 
@@ -42,7 +42,7 @@ Washington University in Saint Louis—Saint Louis, Missouri
 
 + Adjunct Instructor (Philosophy), Ivy Tech Community College, Indianapolis, Indiana, 2014–2016
 
-### Professional Contributions and Engagement
+### Professional Contributions and Engagement:
 
 + Climate and Global Dynamics Laboratory Research Exchange Coordinator (present)
 
@@ -60,7 +60,7 @@ Washington University in Saint Louis—Saint Louis, Missouri
 
 + Community Earth System Model 2022 Annual Workshop cross-working group sessions lead, 2022
 
-### Publications
+### Publications:
 
 “Implications of Model-Based Uncertainty: Scientific Responses and Philosophical Interpretations,” Monica Ainhorn Morrison and Peter Lawrence, April 2023,  _Springer Handbook of the Philosophy of Climate Change_.
 
@@ -74,7 +74,7 @@ Washington University in Saint Louis—Saint Louis, Missouri
 
 “Benjamin Franklin” (co-authored with C. de Waal) in _Dictionary of Early American Philosophers, New York: Continuum International Publishing Group_, 2012, pp. 414–420.
 
-### Representative Presentations
+### Representative Presentations:
 
 "Adequacy and Reliability of Earth System Models: Actionable Purposes, Model Inadequacy, and Epistemic Risk" EGU 2023 Annual Meeting, April 2023
 
