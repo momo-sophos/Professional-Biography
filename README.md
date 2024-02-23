@@ -1,6 +1,12 @@
 # Monica Ainhorn Morrison, PhD
 ## **_Project Specialist III_, Climate and Global Dynamics Laboratory, National Center for Atmospheric Research**
 
+### Recent Research:
+
+"Brief communication: Sea-level projections, adaptation planning, and actionable science" with William Lipscomb and David Behar
+
+"Representational risk in climate modeling" with Eric Winsberg and Stephanie Harvard
+
 ### About Me: 
 
 I am an interdisciplinary researcher at the National Center for Atmospheric Research in the Climate and Global Dynamics Laboratory. I primarily work on an NSF Growing Convergence Research project focused on designing scenarios of combined climate interventions for application to Earth System models to better understand the efficacy and safety of these responses to the climate crisis. 
