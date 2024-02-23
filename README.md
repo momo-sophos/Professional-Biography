@@ -1,14 +1,6 @@
 # Monica Ainhorn Morrison, PhD
 ## **_Project Specialist III_, Climate and Global Dynamics Laboratory, National Center for Atmospheric Research**
 
-### Recent Research:
-
-"Brief communication: Sea-level projections, adaptation planning, and actionable science" with William Lipscomb and David Behar
-
-"Representational risk in climate modeling" with Eric Winsberg and Stephanie Harvard.
-To watch a version of my original presentation this work is based on please visit [here](https://www.youtube.com/watch?v=GVaFjoiB4I4&t=26289s), and move forward to 7:18:47. 
-
-"Enhancing the Actionability of GEWEX Projects: Designing Responsible and Collaborative Processes" in _GEWEX Quarterly_ [Quarter 3 2023](https://www.gewex.org/gewex-content/files_mf/1692987564Q32023.pdf)
 
 ### About Me: 
 
@@ -21,6 +13,15 @@ I received my PhD in Philosophy from Indiana University under the guidance of El
 In my postdoc, I studied actionable science in the context of climate modeling—particularly how we can evaluate, and possibly enhance, the usefulness and usability of climate models for societal purposes (adaptation, resilience, vulnerability studies). I continue to research the logic and practice of actionable science, identifying the criteria that make scientific products useful and usable by stakeholder communities, and the different processes for responsible (i.e., ethical) co-development in climate modeling that can aid in the satisfaction of these criteria.
 
 My secondary interest is convergence research in climate science and geosciences more generally. I am particularly interested in the different dimensions of scientific convergence—specifically how to implement mechanisms and processes that can facilitate deep integration across traditionally disparate perspectives and research communities at institutions such as NCAR.
+
+### Recent Research:
+
+"Brief communication: Sea-level projections, adaptation planning, and actionable science" with William Lipscomb and David Behar
+
+"Representational risk in climate modeling" with Eric Winsberg and Stephanie Harvard.
+To watch a version of my original presentation this work is based on please visit [here](https://www.youtube.com/watch?v=GVaFjoiB4I4&t=26289s), and move forward to 7:18:47. 
+
+"Enhancing the Actionability of GEWEX Projects: Designing Responsible and Collaborative Processes" in _GEWEX Quarterly_ [Quarter 3 2023](https://www.gewex.org/gewex-content/files_mf/1692987564Q32023.pdf)
 
 ### Education:
 
