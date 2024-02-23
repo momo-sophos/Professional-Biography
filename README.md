@@ -7,6 +7,8 @@
 
 "Representational risk in climate modeling" with Eric Winsberg and Stephanie Harvard
 
+"Enhancing the Actionability of GEWEX Projects: Designing Responsible and Collaborative Processes" in _GEWEX Quarterly_ [Quarter 3 2023](https://www.gewex.org/gewex-content/files_mf/1692987564Q32023.pdf)__
+
 ### About Me: 
 
 I am an interdisciplinary researcher at the National Center for Atmospheric Research in the Climate and Global Dynamics Laboratory. I primarily work on an NSF Growing Convergence Research project focused on designing scenarios of combined climate interventions for application to Earth System models to better understand the efficacy and safety of these responses to the climate crisis. 
