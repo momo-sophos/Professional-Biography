@@ -6,8 +6,9 @@
 "Brief communication: Sea-level projections, adaptation planning, and actionable science" with William Lipscomb and David Behar
 
 "Representational risk in climate modeling" with Eric Winsberg and Stephanie Harvard
+To watch a version of my original presentation please visit [here](https://www.youtube.com/watch?v=GVaFjoiB4I4&t=26289s), and move forward to 7:18:47. 
 
-"Enhancing the Actionability of GEWEX Projects: Designing Responsible and Collaborative Processes" in _GEWEX Quarterly_ [Quarter 3 2023](https://www.gewex.org/gewex-content/files_mf/1692987564Q32023.pdf)__
+"Enhancing the Actionability of GEWEX Projects: Designing Responsible and Collaborative Processes" in _GEWEX Quarterly_ [Quarter 3 2023](https://www.gewex.org/gewex-content/files_mf/1692987564Q32023.pdf)
 
 ### About Me: 
 
