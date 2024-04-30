@@ -19,7 +19,7 @@ My secondary interest is convergence research in climate science and geosciences
 "Brief communication: Sea-level projections, adaptation planning, and actionable science" with William Lipscomb and David Behar
 
 "Representational risk in climate modeling" with Eric Winsberg and Stephanie Harvard.
-To watch a version of my original presentation this work is based on please visit [here](https://www.youtube.com/watch?v=GVaFjoiB4I4&t=26289s), and move forward to 7:18:47. 
+To watch my original presentation this work is based on please visit [here](https://www.youtube.com/watch?v=GVaFjoiB4I4&t=26289s), and move forward to 7:18:47, or [here](https://www.youtube.com/watch?v=xerzwkph_PY) and forward to 3:27:00. The first presentation is from the CESM 2023 Workshop, the second from the January 2023 meeting of the Atmosphere Model Working Group of CESM, and extends the issue to climate justice. 
 
 "Enhancing the Actionability of GEWEX Projects: Designing Responsible and Collaborative Processes" in _GEWEX Quarterly_ [Quarter 3 2023](https://www.gewex.org/gewex-content/files_mf/1692987564Q32023.pdf)
 
